@@ -1,7 +1,7 @@
 import selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-
+import time
 
 class WhatsappBot:
     def __init__(self):
